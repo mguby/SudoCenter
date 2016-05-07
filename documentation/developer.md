@@ -2,5 +2,6 @@
 * [Piggybacking](./piggybacking/piggybacking.md)
 * [Brute force](./brute-force/brute-force.md)
 * [Buffer Overflow](./buffer-overflow/buffer-overflow.md)
-* [Snooping / Man-In-The-Middle]
+* [Snooping](./snooping/snooping.md)
+* [Man-In-The-Middle](./man-in-the-middle/man-in-the-middle.md)
 * [Cryptography]
