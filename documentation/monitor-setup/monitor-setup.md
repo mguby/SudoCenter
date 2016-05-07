@@ -14,7 +14,7 @@ monitor near the entrance that shows "Welcome kids", “Ready to Hack?”
 http://pastebin.com/8zsAkr6L  
 Cafeteria (monitor that shows food menu)  
 http://pastebin.com/1ueLgT0q  
-4 Monitors that displays “Look around for the four passwords to get into the center room!”  
+4 Monitors that hints “Look around for the four passwords to get into the center room!”  
 http://pastebin.com/PLikkMiV  
 
 #### Setup
