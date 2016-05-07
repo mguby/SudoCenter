@@ -1,4 +1,4 @@
-[Back to Developer Documentation Menu](../developer.md)  
+[Back to Menu](../../README.md)  
 # Mod Setup
 This documentation covers how to get mods and what to do with them. This does not cover how to get the MinecraftEdu initially setup, since that was provided to us when we started the server.
 

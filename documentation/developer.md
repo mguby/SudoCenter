@@ -6,5 +6,6 @@
   * [Snooping](./snooping/snooping.md)
   * [Man-In-The-Middle](./man-in-the-middle/man-in-the-middle.md)
   * [Cryptography](./cryptography/cryptography.md)
+* [Computers](./computers/computers.md)
 * [Mod Setup](./mod-setup/mod-setup.md)
 * [Monitor Setup](./monitor-setup/monitor-setup.md)

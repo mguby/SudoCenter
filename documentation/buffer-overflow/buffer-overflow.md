@@ -1,4 +1,4 @@
-[Back to Developer Documentation Menu](../developer.md)  
+[Back to Menu](../../README.md)  
 ## Buffer Overflow
 ### Scripts used
 * pastebin  

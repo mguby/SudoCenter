@@ -1,4 +1,4 @@
-[Back to Developer Documentation Menu](../developer.md)  
+[Back to Menu](../../README.md)  
 # Monitor Setup  
 Each **monitor** has a **computer** that controls the display of that **monitor**.  
 Usually, the computer that controls monitor are hidden behind the monitor.
@@ -34,7 +34,8 @@ http://pastebin.com/Xe9gGj35
 ```lua
 		shell.run(“monitor”, “back”, “cat”)
 ```
-Into “startup” file
+Into “startup” file   
+
 3. Reboot the computer
 
 The four password monitor inside main building can be setup similar as the Nyan Cat monitor
