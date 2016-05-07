@@ -11,7 +11,10 @@
 
 ## Brute Force
 ### Scripts used:
+* pastebin  
 http://pastebin.com/27BkyWWU
+* git repo  
+[category-brute-force.lua](../../brute-force/category-brute-force.lua)
 
 ### Step-By-Step Quest Setup:
 Look at the [snooping](../snopping/snooping.md) documentation to learn how to set up a quest.
