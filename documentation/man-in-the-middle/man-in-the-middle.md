@@ -1,13 +1,4 @@
-
-<!-- toc -->
-
-- [Man-In-The-Middle](#man-in-the-middle)
-	- [Scripts used](#scripts-used)
-	- [Step-By-Step Quest Setup](#step-by-step-quest-setup)
-	- [Known Bugs](#known-bugs)
-
-<!-- tocstop -->
-
+[Back to Developer Documentation Menu](../developer.md)  
 ## Man-In-The-Middle
 ### Scripts used
 * pastebin  

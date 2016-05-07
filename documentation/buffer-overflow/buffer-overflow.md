@@ -1,14 +1,4 @@
-
-<!-- toc -->
-
-- [Buffer Overflow](#buffer-overflow)
-	- [Scripts used](#scripts-used)
-	- [Step-By-Step Quest Setup](#step-by-step-quest-setup)
-	- [Setup Buffer Overflow Script](#setup-buffer-overflow-script)
-	- [Known Bugs](#known-bugs)
-
-<!-- tocstop -->
-
+[Back to Developer Documentation Menu](../developer.md)  
 ## Buffer Overflow
 ### Scripts used
 * pastebin  

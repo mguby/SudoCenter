@@ -1,15 +1,4 @@
-
-<!-- toc -->
-
-- [Snooping](#snooping)
-	- [Scripts used](#scripts-used)
-	- [Step-By-Step Quest Setup](#step-by-step-quest-setup)
-	- [NPC Snooping Step-By-Step](#npc-snooping-step-by-step)
-	- [Computer Snooping Step-By-Step](#computer-snooping-step-by-step)
-	- [Known Bugs](#known-bugs)
-
-<!-- tocstop -->
-
+[Back to Developer Documentation Menu](../developer.md)  
 ## Snooping
 ### Scripts used
 * pastebin   

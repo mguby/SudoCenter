@@ -1,14 +1,4 @@
-
-<!-- toc -->
-
-- [Piggybacking](#piggybacking)
-	- [Script used](#script-used)
-	- [Step-by-step Quset Setup](#step-by-step-quset-setup)
-	- [Computer Piggyback Step-by-Step](#computer-piggyback-step-by-step)
-	- [Known bugs](#known-bugs)
-
-<!-- tocstop -->
-
+[Back to Developer Documentation Menu](../developer.md)  
 ## Piggybacking
 ### Script used
 * pastebin

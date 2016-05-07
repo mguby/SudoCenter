@@ -1,14 +1,4 @@
-
-<!-- toc -->
-
-- [Brute Force](#brute-force)
-	- [Scripts used](#scripts-used)
-	- [Step-By-Step Quest Setup](#step-by-step-quest-setup)
-	- [Bruteforce Step-By-Step](#bruteforce-step-by-step)
-	- [Known Bugs](#known-bugs)
-
-<!-- tocstop -->
-
+[Back to Developer Documentation Menu](../developer.md)  
 ## Brute Force
 ### Scripts used
 * pastebin  
