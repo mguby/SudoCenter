@@ -1,0 +1,25 @@
+
+<!-- toc -->
+
+- [Brute Force](#brute-force)
+	- [Scripts used:](#scripts-used)
+	- [Step-By-Step Quest Setup:](#step-by-step-quest-setup)
+	- [Bruteforce Step-By-Step](#bruteforce-step-by-step)
+	- [Known Bugs:](#known-bugs)
+
+<!-- tocstop -->
+
+## Brute Force
+### Scripts used:
+http://pastebin.com/27BkyWWU
+
+### Step-By-Step Quest Setup:
+Look at the [snooping](../snopping/snooping.md) documentation to learn how to set up a quest.
+
+### Bruteforce Step-By-Step
+* Place an Advanced Computer and type `pastebin get 27BkyWWu startup`.  
+  * Modify the file questions and answers as needed.  
+* Rename the file to `startup` and restart the computer or type `startup` to begin the program.
+
+### Known Bugs:
+None
