@@ -2,21 +2,21 @@
 <!-- toc -->
 
 - [Brute Force](#brute-force)
-	- [Scripts used:](#scripts-used)
-	- [Step-By-Step Quest Setup:](#step-by-step-quest-setup)
+	- [Scripts used](#scripts-used)
+	- [Step-By-Step Quest Setup](#step-by-step-quest-setup)
 	- [Bruteforce Step-By-Step](#bruteforce-step-by-step)
-	- [Known Bugs:](#known-bugs)
+	- [Known Bugs](#known-bugs)
 
 <!-- tocstop -->
 
 ## Brute Force
-### Scripts used:
+### Scripts used
 * pastebin  
 http://pastebin.com/27BkyWWU
 * git repo  
 [category-brute-force.lua](../../brute-force/category-brute-force.lua)
 
-### Step-By-Step Quest Setup:
+### Step-By-Step Quest Setup
 Look at the [snooping](../snopping/snooping.md) documentation to learn how to set up a quest.
 
 ### Bruteforce Step-By-Step
@@ -24,5 +24,5 @@ Look at the [snooping](../snopping/snooping.md) documentation to learn how to se
   * Modify the file questions and answers as needed.  
 * Rename the file to `startup` and restart the computer or type `startup` to begin the program.
 
-### Known Bugs:
+### Known Bugs
 None
