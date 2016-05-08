@@ -2,7 +2,7 @@
 CS492/CS493: Minecraft as an Educational Tool
 * [Teacher Documentation](./documentation/teacher.md)
 * [Developer Documentation](./documentation/developer.md)
-  * Tutorial / Main Building
+  * Tutorial / Sudo Center (Main Building)
     * [Piggybacking](./piggybacking/piggybacking.md)
     * [Brute force](./brute-force/brute-force.md)
     * [Buffer Overflow](./buffer-overflow/buffer-overflow.md)
