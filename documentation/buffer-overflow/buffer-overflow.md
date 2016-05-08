@@ -16,12 +16,12 @@
 2. Make quest complete dialog and set it to the NPC that the player must talk to in order to complete quest and set the availability to “When Active” and choose your quest
 
 ### Setup Buffer Overflow Script
-* **tutorial building**  
+* **Tutorial Building**  
 Load the script onto the computers in the server with the `pastebin get g1S6RK2x startup` command and reboot computer by typing `reboot`.   
 There are 4 computers in tutorial building.
 ![image01](./images/image01.png)
 
-* **main building**  
+* **Sudo Center**  
 Load the script onto the computers in the server with the `pastebin get UAXhn21N startup` command and reboot computer by typing `reboot`.   
 There is only one computer in the main building that needs to set up like shown below.  
 ![image00](./images/image00.png)
