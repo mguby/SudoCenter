@@ -1,8 +1,8 @@
 # SudoCenter
 CS492/CS493: Minecraft as an Educational Tool
-* [Teacher Documentation](./documentation/teacher.md)
-* Developer Documentation
-  * Tutorial / Sudo Center (Main Building)
+<!-- * [Teacher Documentation](./documentation/teacher.md) -->
+* Documentation
+  * Computer Security Topics
     * [Piggybacking](./documentation/piggybacking/piggybacking.md)
     * [Brute force](./documentation/brute-force/brute-force.md)
     * [Buffer Overflow](./documentation/buffer-overflow/buffer-overflow.md)
