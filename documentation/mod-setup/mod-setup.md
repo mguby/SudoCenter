@@ -15,7 +15,7 @@ This documentation covers how to get mods and what to do with them. This does no
 
 --- 
 
-Here’s a list of mods that we’re currently using and their purpose:
+Here’s a list of mods that we’re currently using and their purpose:  
 ![list](./images/image00.png)
 
 * [BetterQuesting](http://mods.curse.com/mc-mods/minecraft/238856-better-questing)
